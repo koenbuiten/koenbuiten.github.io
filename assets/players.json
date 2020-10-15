@@ -9,7 +9,6 @@
       "hobby": "Uitgaan, darten, gamen, kaarten, skiën",
       "eten": "Lasagne",
       "wakker": "Een vakantie",
-      "fan": "",
       "sportmoment": "Kampioenschap met Wit-Blauw 1",
       "insta": "@vlaaaadii",
       "img": "Vladimir_Slot"
@@ -38,12 +37,13 @@
       "clubs": "Oranje Zwart",
       "hobby": "Vissen en gezellig een drankje doen",
       "eten": "Spaghetti",
-      "wakker": "Hutspot,boerenkool,stampot rauwe andijvie",
+      "wakker": "Hutspot, boerenkool, stampot rauwe andijvie",
       "fan": "Ajax;)",
-      "sportmoment": "Ahoy winnen met dos 46 al en de veld titel met het eerste van dos46",
+      "sportmoment": "Ahoy winnen met DOS'46 A1 en de veld titel met het eerste van DOS'46",
       "insta": "Max malestein",
       "img": "Max_Malestein"
     },
+
     {
       "rug_nr": 6,
       "naam": "Melvin Frieswijk",
@@ -75,6 +75,13 @@
       "img": "Jesse_van_der_Linde_"
     },
     {
+      "type": "sponsor",
+      "subtype": "Hoofd sponsor",
+      "site": ["https://www.toyota-meppel.nl/"],
+      "img": "hoofdsponsor.png",
+      "naam": ["Toyota Van der Linde Meppel"]
+    },
+    {
       "rug_nr": 8,
       "naam": "Luc Hulzebosch",
       "leeftijd": 18,
@@ -85,10 +92,11 @@
       "eten": "Pasta",
       "wakker": "Een spannende (live)sportwedstrijd",
       "fan": "Kobe Bryant",
-      "sportmoment": "Nederlands kampioen met Dos’46 B1 in de zaal in het seizoen 2016/2017",
+      "sportmoment": "Nederlands kampioen met DOS’46 B1 in de zaal in het seizoen 2016/2017",
       "insta": "@luchulzebosch",
       "img": "Luc_Hulzebosch"
     },
+
     {
       "rug_nr": 9,
       "naam": "Wiljan Snip",
@@ -104,6 +112,7 @@
       "insta": "@wiljansnip",
       "img": "Wiljan_Snip"
     },
+ 
     {
       "rug_nr": 10,
       "naam": "Wouter Neutel",
@@ -115,7 +124,7 @@
       "eten": "Andijvie met spekjes en worst, van mijn “schoonmoeder” ;)",
       "wakker": "Ben de meeste tijd van de dag al wakker",
       "fan": "Van mijn pa",
-      "sportmoment": "Mijn overstap naar Dos46 natuurlijk :p",
+      "sportmoment": "Mijn overstap naar DOS'46 natuurlijk :p",
       "insta": "",
       "img": "Wouter_Neutel"
     },
@@ -150,6 +159,13 @@
       "img": "Eline_van_Veldhuisen"
     },
     {
+      "type": "sponsor",
+      "subtype": "Co sponsoren",
+      "site": ["https://www.dynamicno-break.nl/site/", "https://www.koelstra.nl/"],
+      "img": "cosponsoren.png",
+      "naam": ["Dynamic No Break", "Koelstra"]
+    },
+    {
       "rug_nr": 13,
       "naam": "Famke Smelt",
       "leeftijd": 20,
@@ -160,13 +176,14 @@
       "eten": "Biefstuk",
       "wakker": "Je kunt mij nergens voor wakker maken, tenzij je me vertelt dat ik op vakantie ga naar een warm land.",
       "fan": "Danique Bossers (ondernemer)",
-      "sportmoment": "Nederlands kampioen op het veld met Dos’46 B1",
+      "sportmoment": "Nederlands kampioen op het veld met DOS’46 B1",
       "insta": "@famkesmelt",
       "img": "Famke_Smelt"
     },
+
     {
       "rug_nr": 15,
-      "naam": "fardau de Boer",
+      "naam": "Fardau de Boer",
       "leeftijd": 21,
       "beroep_studie": "Fysiotherapeut bij Fytac Meppel",
       "start_korf": "6 jaar",
@@ -205,7 +222,7 @@
       "eten": "Draadjesvlees (sukade lapjes), aardappel kroketjes en stoofpeertjes",
       "wakker": "Het liefste blijf ik natuurlijk lekker slapen, maar als ik dan toch wakker gemaakt word dan is chocolade zeker welkom.",
       "fan": "Vanaf jongs af aan was ik altijd fan van André Kuipers. Nu ben ik niet echt fan van bepaalde spelers. Maar wel vind/vond het wel leuk om naar een speelsters zoals Geertje Hoekstra en Celeste Split te kijken.",
-      "sportmoment": "Ik heb 2 mooie korfbal momenten. De eerste is dat ik met Dos’46 B1 in het seizoen 2016-2017 Nederlands kampioen ben geworden in de hoofdklasse zaal. En de andere is dat we met Dos’46 A1 de play offs mochten spelen tegen Top Sassenheim voor een plekje in de Ziggo dome finale.",
+      "sportmoment": "Ik heb 2 mooie korfbal momenten. De eerste is dat ik met DOS’46 B1 in het seizoen 2016-2017 Nederlands kampioen ben geworden in de hoofdklasse zaal. En de andere is dat we met DOS’46 A1 de play offs mochten spelen tegen Top Sassenheim voor een plekje in de Ziggo dome finale.",
       "insta": "manouktk",
       "img": "Manouk_ten_Kate_"
     },
@@ -225,6 +242,13 @@
       "img": "Kim_Petersen"
     },
     {
+      "type": "sponsor",
+      "subtype": "Sub sponsoren",
+      "site": ["https://www.veldsink.nl/vestiging/veldsink-faber/","https://www.multiselect.nl/", "https://primalife.nl/", "https://www.chocoladenzo.nl/"],
+      "img": "subsponsoren.png",
+      "naam": ["Veldsink - Faber", "Multiselect", "PrimaLife", "Bonbon Atelier A3"]
+    },
+    {
       "rug_nr": 19,
       "naam": "Lisa Jansen",
       "leeftijd": 21,
@@ -235,7 +259,7 @@
       "eten": "Sushi",
       "wakker": "Een vakantie naar een warm land",
       "fan": "Frenkie de Jong",
-      "sportmoment": "De kruisfinale met Dos’46 A1 en NK zaal met Amicitia B1.",
+      "sportmoment": "De kruisfinale met DOS’46 A1 en NK zaal met Amicitia B1.",
       "insta": "@Lisajansenx",
       "img": "Lisa_Jansen"
     },
@@ -284,6 +308,7 @@
       "insta": "martvrielink_",
       "img": "Mart_Vrielink_"
     },
+
     {
       "rug_nr": 24,
       "naam": "Kim van Dalen",
@@ -300,6 +325,13 @@
       "img": "Kim_van_Dalen"
     },
     {
+      "type": "sponsor",
+      "subtype": "KID sponsoren",
+      "site": ["https://www.ah.nl/winkel/albert-heijn/havelte/dorpsstraat/4033?utm_source=google&utm_medium=organic&utm_campaign=GMB","https://www.chocoladenzo.nl/"],
+      "img": "kidsponsoren.png",
+      "naam": ["AH Abe Brouwer Havelte","Bonbon Atelier A3"]
+    },
+    {
       "rug_nr": 26,
       "naam": "Lynn Bijkerk",
       "leeftijd": 19,
@@ -310,28 +342,26 @@
       "eten": "Sushi en zoetigheid",
       "wakker": "Liever niet.",
       "fan": "Ik ben niet zozeer fan van iemand, maar mijn ouders zijn wel een voorbeeld voor me wat betreft hun relatie en hoe ze alles aanpakken.",
-      "sportmoment": "Nederlands kampioen veld B-aspiranten in mijn eerste jaar bij Dos’46.",
+      "sportmoment": "Nederlands kampioen veld B-aspiranten in mijn eerste jaar bij DOS’46.",
       "insta": "@lynnbijkerk",
       "img": "Lynn_Bijkerk"
     },
     {
       "rug_nr": "",
       "naam": "Edwin Bouman",
+      "functie": "Trainer/coach DOS'46 1",
       "leeftijd": 48,
-      "beroep_studie": "",
       "start_korf": "8 jaar",
       "clubs": "DVO, OA, AW/DTV",
       "hobby": "Ik houd van buitenzijn, bergen, goede wijn. Naast korfballen heb ik altijd veel gesport (volleybal, tennis, golf, wielrennen en mountainbiken)",
-      "eten": "",
       "wakker": "Voor een echt goede espresso-doppio",
-      "fan": "",
-      "sportmoment": "",
       "insta": "",
       "img": "Edwin_Bouman"
     },
     {
       "rug_nr": "",
       "naam": "Rick Wessel",
+      "functie": "Assistent-trainer/coach DOS'46 1",
       "leeftijd": 30,
       "beroep_studie": "Sportdocent Deltion College Zwolle",
       "start_korf": "6 jaar",
@@ -347,6 +377,7 @@
     {
       "rug_nr": "",
       "naam": "Wilbert Leendertse",
+      "functie": "Trainer/coach DOS'46 2",
       "leeftijd": 51,
       "beroep_studie": "teamleider vmbo-mbo binnen Landstede",
       "start_korf": "8 jaar",
@@ -362,10 +393,11 @@
     {
       "rug_nr": "",
       "naam": "Martijs van Schie",
+      "functie": "Teambegeleider",
       "leeftijd": 23,
       "beroep_studie": "Frontoffice bij ENGIE Nederland",
       "start_korf": "10 jaar",
-      "clubs": "SVN'69",
+      "clubs": "SVN'69 & DOS'46",
       "hobby": "Wielrennen, F1/voetbal kijken en gamen met vrienden.",
       "eten": "Pizza",
       "wakker": "Een zak Engelse drop",
@@ -375,8 +407,16 @@
       "img": "Martijs_van_Schie"
     },
     {
+      "type": "sponsor",
+      "subtype": "Kleding sponsoren",
+      "site": "https://www.dynamicno-break.nl/site/",
+      "img": "kledingsponsoren.png",
+      "naam": "Dynamic No Break"
+    },
+    {
       "rug_nr": "",
       "naam": "Jesse de Jong",
+      "functie": "Teambegeleider",
       "leeftijd": 24,
       "beroep_studie": "Coop Supermarkten, ben onderdeel van de afdeling transport",
       "start_korf": "5 jaar",
@@ -385,32 +425,17 @@
       "eten": "Pizza",
       "wakker": "Voor op vakantie gaan.",
       "fan": "John Guidetti",
-      "sportmoment": "Spelen voor dos’46!",
+      "sportmoment": "Spelen voor DOS’46!",
       "insta": "",
       "img": "Jesse_de_Jong"
     },
-    {
-      "rug_nr": "",
-      "naam": "Ruud Vermeer",
-      "leeftijd": 39,
-      "beroep_studie": "(sport)fysiotherapeut",
-      "start_korf": "",
-      "clubs": "",
-      "hobby": "Klimmen, mtb, hardlopen, lezen",
-      "eten": "Indiase curry",
-      "wakker": "Goede bak koffie",
-      "fan": "Mijn kinderen",
-      "sportmoment": "Overschrijding van de Piz Palu(berg in zwitserland)",
-      "insta": "",
-      "img": "Ruud_Vermeer"
-    },
+
     {
       "rug_nr": "",
       "naam": "Marinke Jakobs",
+      "functie": "Fysiotherapeut",
       "leeftijd": 22,
       "beroep_studie": "Studie Fysiotherapie,  Trainer/coach Turnen Topsport Noord",
-      "start_korf": "",
-      "clubs": "",
       "hobby": "Sporten, leuke dingen doen met vrienden",
       "eten": "Pasta pesto",
       "wakker": "Laat mij maar gewoon lekker slapen 😊",
@@ -418,5 +443,19 @@
       "sportmoment": "In een vol Ahoy mogen turnen.",
       "insta": "",
       "img": "Marinke_Jakobs_"
+    },
+    {
+      "rug_nr": "",
+      "naam": "Ruud Vermeer",
+      "functie": "Fysiotherapeut",
+      "leeftijd": 39,
+      "beroep_studie": "(sport)fysiotherapeut",
+      "hobby": "Klimmen, mtb, hardlopen, lezen",
+      "eten": "Indiase curry",
+      "wakker": "Goede bak koffie",
+      "fan": "Mijn kinderen",
+      "sportmoment": "Overschrijding van de Piz Palu(berg in zwitserland)",
+      "insta": ""
     }
   ]
+  
