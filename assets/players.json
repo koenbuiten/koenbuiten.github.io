@@ -409,9 +409,9 @@
     {
       "type": "sponsor",
       "subtype": "Kleding sponsoren",
-      "site": "https://www.dynamicno-break.nl/site/",
+      "site": ["https://www.dynamicno-break.nl/site/"],
       "img": "kledingsponsoren.png",
-      "naam": "Dynamic No Break"
+      "naam": ["Dynamic No Break"]
     },
     {
       "rug_nr": "",
