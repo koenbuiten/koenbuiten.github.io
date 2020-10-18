@@ -409,9 +409,9 @@
     {
       "type": "sponsor",
       "subtype": "Kleding sponsoren",
-      "site": ["https://www.dynamicno-break.nl/site/"],
+      "site": ["http://www.houtmanmode.nl/","https://www.teamshop.club/"],
       "img": "kledingsponsoren.png",
-      "naam": ["Dynamic No Break"]
+      "naam": ["Houtman", "Muta"]
     },
     {
       "rug_nr": "",
