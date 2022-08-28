@@ -1,0 +1,63 @@
+
+<div fxLayout="row" fxLayout.md="row" fxLayout.sm="column" fxLayout.xs="column" fxflex="100%" class="example-container" >
+    
+  <div fxHide fxShow.gt-sm  class="sidenav">
+      <div  class="personalia">      
+          <div class="headshot-thumb centered-no-repetition"></div>
+          <h2>Koen Buiten</h2>
+          <h3 class="email"><fa-icon style="margin-right:5px;" class="email" [icon]="faEmail"></fa-icon>koenbuiten@gmail.com</h3>         
+      </div>
+
+        <button class='menu-button' mat-list-item >Studie</button >
+        <mat-divider></mat-divider>
+        <button class='menu-button'  mat-list-item >Projecten</button >
+        <mat-divider></mat-divider>
+        <button class='menu-button'  mat-list-item >Werk</button >    
+          
+        <button  (click)="goToLink('mailto:{koenbuiten@gmail.com}',true)" class='menu-button'  mat-list-item><fa-icon [icon]="faEmail"></fa-icon></button>
+        <button (click)="goToLink('https://www.linkedin.com/in/koen-buiten-61aa46b1/',false)" class='menu-button'  mat-list-item><fa-icon [icon]="faLinkedin"></fa-icon></button>
+        <button (click)="goToLink('https://github.com/koenbuiten/',false)" class='menu-button'  mat-list-item><fa-icon [icon]="faGithub"></fa-icon></button>
+  </div>
+  
+  <div fxShow fxHide.gt-sm class ="topnav">
+    <button fxShow fxHide.gt-sm class='menu-button-open'  (click)="toggle()"><mat-icon >menu</mat-icon></button>
+    <div fxShow fxHide.gt-sm @openClose *ngIf="isOpen">
+      <button class='menu-button' mat-list-item >Studie</button >
+      <mat-divider></mat-divider>
+      <button class='menu-button'  mat-list-item >Projecten</button >
+      <mat-divider></mat-divider>
+      <button class='menu-button'  mat-list-item >Werk</button > 
+      <button  (click)="goToLink('mailto:{koenbuiten@gmail.com}',true)" class='menu-button'  mat-list-item><fa-icon [icon]="faEmail"></fa-icon></button>
+      <button (click)="goToLink('https://www.linkedin.com/in/koen-buiten-61aa46b1/',false)" class='menu-button'  mat-list-item><fa-icon [icon]="faLinkedin"></fa-icon></button>
+      <button (click)="goToLink('https://github.com/koenbuiten/',false)" class='menu-button'  mat-list-item><fa-icon [icon]="faGithub"></fa-icon></button>
+    </div>
+  </div>
+
+
+  <div >
+    <div class="intro" fxLayout="row" fxLayout.sm="column" fxLayout.md="column"   fxLayout.xs="column" >
+      
+        <h2 style="color:black;margin:5px 0 5px 0 ">Koen Buiten</h2>
+        <div  class="headshot" ></div>
+        <h3 class="email"><fa-icon style="margin-top:5px;" class="email" [icon]="faEmail"></fa-icon>koenbuiten@gmail.com</h3>         
+        <!-- <h1 style="font-size: 32pt; text-align: left;">Koen Buiten</h1> -->
+        <h2 style="color:black;margin:5px 0 5px 0;text-align: left;">Studie</h2>
+        <h3><b>Premaster en Master – Artificial Intelligence <br> <i>Rijksuniversiteit Groningen | 2018 - 2022</i></b></h3>
+        <div class="text" fxflex="10" fxflex.md="10">
+          <!-- Tijdens de bachelor Engineering, Design and Innovation heb ik veel geleerd over het ontwerpen, fabriceren en onderhouden van machines en zijn onderdelen. Tijdens de opleiding heb ik verschillende stages doorlopen, waaronder een stage van 800 uur bij OwlTech, waar ik me bezig hield met het ontwerpen van een 3D printer die gebruik maakt van Linear Induction motors. (Zie http://www.maglev3d.com/ voor meer informatie en afbeeldingen). De tweede stage van circa 400 uur heb ik gelopen bij Handicare Stairlifts, waar ik me bezig hield met het ontwerpen van een mechanische oplossing voor het plaatsen van rechte trapliften op ongewone trappen. Mijn afstudeerstage heeft plaatsgevonden bij Van der Mast Industrial Innovations, waar ik werkte aan het herstructureren en het verbeteren van het ontwerp en data management proces.
+          <br><br>
+          <h3 style="margin:0"><b>Vakken pakket</b></h3> -->
+          <i>Computer Vision, Deep learning, Cognitive robotics, Cognitive modelling:
+            complex behaviours, Robotics for Industrial Engineering and Manufacturing,
+            Robotics for AI</i>
+          <br><br>
+          <b>Thesis: </b> <a href="https://github.com/koenbuiten/PointNetNBV" target="_blank">Multi-view 3D Object Recognition: Selecting Best Sequences of Views</a>
+        </div>
+        <h3><b>Bsc Engineering, Design and Innovation <br> <i>Hogeschool van Amsterdam | 2013 - 2018</i></b></h3>
+        <div class="text" fxflex="10" fxflex.md="10">
+          Tijdens de bachelor Engineering, Design and Innovation heb ik veel geleerd over het ontwerpen, fabriceren en onderhouden van machines en zijn onderdelen. Tijdens de opleiding heb ik verschillende stages doorlopen, waaronder een stage van 800 uur bij OwlTech, waar ik me bezig hield met het ontwerpen van een 3D printer die gebruik maakt van Linear Induction motors. (Zie http://www.maglev3d.com/ voor meer informatie en afbeeldingen). De tweede stage van circa 400 uur heb ik gelopen bij Handicare Stairlifts, waar ik me bezig hield met het ontwerpen van een mechanische oplossing voor het plaatsen van rechte trapliften op ongewone trappen. Mijn afstudeerstage heeft plaatsgevonden bij Van der Mast Industrial Innovations, waar ik werkte aan het herstructureren en het verbeteren van het ontwerp en data management proces.
+      </div>
+ 
+  </div>
+</div>
+  
